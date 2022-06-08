@@ -1,0 +1,5 @@
+api_token = "api"
+region = "us-east"
+root_pass ="terr4form_2020"
+public_key_location = "/home/claudio/.ssh/id_rsa.pub"
+instance_type = "g6-nanode-1"
